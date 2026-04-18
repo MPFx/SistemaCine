@@ -39,7 +39,7 @@ Puedes ver el Javadoc aquí:
 - GitHub Pages
 
 ## Derechos de autor
-**© 2026 ISC Israel de Jesus Mar Parada**
+**© 2026 ISC Israel de Jesus Mar Parada (MPFx++)**
 
 Todos los derechos reservados.
 
