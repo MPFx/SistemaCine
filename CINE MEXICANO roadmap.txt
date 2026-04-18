@@ -1,0 +1,25 @@
+CINE MEXICANO 🌮
+Día 1-2: Infraestructura
+
+✅ model/infraestructura/Asiento.java (abstracta)
+✅ model/infraestructura/AsientoNormal.java
+✅ model/infraestructura/AsientoVIP.java
+✅ model/infraestructura/AsientoPremium.java
+✅ model/infraestructura/Sala.java
+Día 3-4: Cartelera
+
+✅ model/cartelera/Pelicula.java
+✅ model/cartelera/Funcion.java
+Día 5-6: Clientes y Reservas
+
+✅ model/clientes/Cliente.java
+✅ model/clientes/Reserva.java
+✅ model/clientes/Visualizacion.java
+Día 7: Servicios y UI
+
+✅ repository/DataStore.java
+✅ service/CarteleraService.java
+✅ service/ReservaService.java
+✅ service/ClienteService.java
+✅ ui/MenuConsola.java
+✅ principal/Main.java
