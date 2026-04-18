@@ -38,6 +38,41 @@ Puedes ver el Javadoc aquí:
 - Javadoc
 - GitHub Pages
 
-## Autor
+## Derechos de autor
+**© 2026 ISC Israel de Jesus Mar Parada**
+Todos los derechos reservados.
 
-**ISC Israel de Jesus Mar Parada**
+
+## Alcance
+
+### ✅ Qué hace
+- Registro e inicio de sesión de clientes
+- Visualización de cartelera y funciones disponibles
+- Selección de asientos (Normal, VIP, Premium)
+- Aplicación de descuentos por niveles de membresía
+- Acumulación de puntos por compras
+- Generación de tickets con código QR simulado
+
+### ❌ Qué NO hace
+- No tiene interfaz gráfica (solo consola)
+- No persiste datos en base de datos real (usa DataStore en memoria)
+- No procesa pagos reales
+- No envía correos electrónicos reales
+- No genera códigos QR funcionales (solo simulación)
+
+## Documentación Javadoc
+[https://mpfx.github.io/SistemaCine/](https://mpfx.github.io/SistemaCine/)
+
+## Modo de uso
+**Este proyecto NO es una aplicación visual/gráfica.**
+Funciona exclusivamente por consola (CLI - Command Line Interface).
+
+## Propósito
+**Educativo / Pedagógico**
+Este proyecto fue desarrollado con fines de aprendizaje y práctica de:
+- Programación orientada a objetos en Java
+- Documentación técnica con Javadoc
+- Control de versiones con Git y GitHub Pages
+
+Este software se proporciona "tal cual", sin garantías de ningún tipo. 
+No está permitida su reproducción, distribución o modificación sin autorización expresa del autor.
