@@ -40,6 +40,7 @@ Puedes ver el Javadoc aquí:
 
 ## Derechos de autor
 **© 2026 ISC Israel de Jesus Mar Parada**
+
 Todos los derechos reservados.
 
 
